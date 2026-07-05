@@ -1,0 +1,26 @@
+{
+  "person_01_0.jpg": {
+    "cluster": 0,
+    "confidence": 0.948
+  },
+  "person_01_1.jpg": {
+    "cluster": 0,
+    "confidence": 0.948
+  },
+  "person_02_0.jpg": {
+    "cluster": 1,
+    "confidence": 0.943
+  },
+  "person_02_1.jpg": {
+    "cluster": 1,
+    "confidence": 0.943
+  },
+  "person_03_0.jpg": {
+    "cluster": 2,
+    "confidence": 0.932
+  },
+  "person_03_1.jpg": {
+    "cluster": 2,
+    "confidence": 0.932
+  }
+}
